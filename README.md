@@ -2,7 +2,7 @@
 
 ## Access the online version
 
-<a href="https://connect.posit.cloud/EasySportsApps/content/0192fc61-e249-141f-ce78-947fd86d0d11" target="_blank">RandomTeamsApp</a>
+[RandomTeamsApp](https://connect.posit.cloud/EasySportsApps/content/0192fc61-e249-141f-ce78-947fd86d0d11)
 
 ## About the app
 
@@ -14,11 +14,11 @@
 - **Delete players**: remove players from the list who are not attending a specific training session or match.
 - **Randomize groups**: generate random training or competition groups with customizable filters by sport, team, age category, and position.
 
-This app is part of the <a href="https://github.com/EasySportsApps" target="_blank">[EasySportsApps](https://github.com/EasySportsApps)</a> project, driven and developed by <a href="https://orcid.org/0000-0003-3447-395X" target="_blank">[Raúl Hileno, PhD](https://orcid.org/0000-0003-3447-395X)</a>. The project focuses on creating practical and innovative digital solutions that address the dynamic needs of professionals in physical activity and sports. If you have any suggestions for improvement, feel free to reach out through my <a href="https://github.com/rhileno" target="_blank">[GitHub profile](https://github.com/rhileno)</a>. To support the growth of the project, please consider contributing via the GitHub Sponsors crowdfunding campaign. Thank you!
+This app is part of the [EasySportsApps](https://github.com/EasySportsApps) project, driven and developed by [Raúl Hileno, PhD](https://orcid.org/0000-0003-3447-395X). The project focuses on creating practical and innovative digital solutions that address the dynamic needs of professionals in physical activity and sports. If you have any suggestions for improvement, feel free to reach out through my [GitHub profile](https://github.com/rhileno). To support the growth of the project, please consider contributing via the GitHub Sponsors crowdfunding campaign. Thank you!
 
 ## App license
 
-This Shiny app is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License** <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">[CC BY-NC-ND 4.0]</a>.
+This Shiny app is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License** [[CC BY-NC-ND 4.0]](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 You are free to:
 - **Share** — copy and redistribute the material in any medium or format.
