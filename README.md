@@ -14,7 +14,7 @@
 - **Delete players**: remove players from the list who are not attending a specific training session or match.
 - **Randomize groups**: generate random training or competition groups with customizable filters by sport, team, age category, and position.
 
-This app is part of the [EasySportsApps](https://github.com/EasySportsApps) project, driven and developed by [Raúl Hileno, PhD](https://orcid.org/0000-0003-3447-395X). The project focuses on creating practical and innovative digital solutions that address the dynamic needs of professionals in physical activity and sports. If you have any suggestions for improvement, feel free to contact us at [rhileno@gmail.com](rhileno@gmail.com). To support the growth of the project, please consider contributing via the GitHub Sponsors crowdfunding campaign. Thank you!
+This app is part of the [EasySportsApps](https://github.com/EasySportsApps) project, driven and developed by [Raúl Hileno, PhD](https://orcid.org/0000-0003-3447-395X). The project focuses on creating practical and innovative digital solutions that address the dynamic needs of professionals in physical activity and sports. If you have any suggestions for improvement, feel free to contact us at **rhileno@gmail.com**. To support the growth of the project, please consider contributing via the GitHub Sponsors crowdfunding campaign. Thank you!
 
 ## App license
 
