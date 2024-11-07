@@ -1,4 +1,4 @@
-# **RandomTeamsApp**
+# RandomTeamsApp
 
 ## 🌐 Online access to RandomTeamsApp
 
