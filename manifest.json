@@ -2170,52 +2170,52 @@
   },
   "files": {
     "app.R": {
-      "checksum": "e136b36401cb183976f87150cdb6c686"
+      "checksum": "450bb988c912cfe361f6cd151e4e5df3"
     },
-    "datasets/Balafia_volei_players_11_10_2024.csv": {
+    "drafts/Balafia_volei_players_11_10_2024.csv": {
       "checksum": "97c583e03613cc7279f0a7917d153d7c"
     },
-    "datasets/Balafia_volei_players_11_10_2024.txt": {
+    "drafts/Balafia_volei_players_11_10_2024.txt": {
       "checksum": "eb2a061103385622df1de042adc2f323"
     },
-    "datasets/Balafia_volei_players_11_10_2024.xls": {
+    "drafts/Balafia_volei_players_11_10_2024.xls": {
       "checksum": "c7f18df54ee94c2e0c65d4b1fde64221"
     },
-    "datasets/Balafia_volei_players_11_10_2024.xlsx": {
+    "drafts/Balafia_volei_players_11_10_2024.xlsx": {
       "checksum": "cb204f6278a5b2185b19f54a7ac22802"
     },
-    "datasets/Balafia_volei_players_11_10_2024_append.csv": {
+    "drafts/Balafia_volei_players_11_10_2024_append.csv": {
       "checksum": "649c32ab4bdebbbf1c1c7cf3c8c596a7"
     },
-    "datasets/Balafia_volei_players_11_10_2024_append.txt": {
+    "drafts/Balafia_volei_players_11_10_2024_append.txt": {
       "checksum": "f761799ebc68343b5aca18520a83a136"
     },
-    "datasets/Balafia_volei_players_11_10_2024_append.xls": {
+    "drafts/Balafia_volei_players_11_10_2024_append.xls": {
       "checksum": "0d6785552aeab63631048693939bee27"
     },
-    "datasets/Balafia_volei_players_11_10_2024_append.xlsx": {
+    "drafts/Balafia_volei_players_11_10_2024_append.xlsx": {
       "checksum": "1f5d4924e78cac880cdb1d67e0050cc5"
     },
-    "datasets/Balafia_volei_players_11_10_2024_error_character.xlsx": {
+    "drafts/Balafia_volei_players_11_10_2024_error_character.xlsx": {
       "checksum": "a2890b85c889039e88e0c91c31cea30e"
     },
-    "datasets/Balafia_volei_players_11_10_2024_error_columns.xlsx": {
+    "drafts/Balafia_volei_players_11_10_2024_error_columns.xlsx": {
       "checksum": "5aba33fa43a0370034aa4e2a00250674"
     },
-    "datasets/Balafia_volei_players_11_10_2024_error_duplicate.xlsx": {
+    "drafts/Balafia_volei_players_11_10_2024_error_duplicate.xlsx": {
       "checksum": "18830099deb8eebd8564fa84cf764c55"
     },
-    "datasets/Balafia_volei_players_11_10_2024_error_NA.xlsx": {
+    "drafts/Balafia_volei_players_11_10_2024_error_NA.xlsx": {
       "checksum": "7ba042d7fa6b892ca415920511003207"
     },
-    "Demo_random_teams_app.mp4": {
-      "checksum": "e568b2557e65e3e5dd84cf54724e2a23"
-    },
-    "direcciones.txt": {
-      "checksum": "3b405708962952aced1832694c134a20"
+    "drafts/balafia_volei_senior_players_list_24_25.xlsx": {
+      "checksum": "89ce1d157104c35334f6c66464c5385e"
     },
     "player_list_demo.xlsx": {
       "checksum": "59ccfb24a9b3530c22a48aa11cb846d9"
+    },
+    "URLs.txt": {
+      "checksum": "636cd29cd57d05ac62ce8dd89e1f53ce"
     }
   },
   "users": null
