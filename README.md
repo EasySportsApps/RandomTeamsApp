@@ -2,7 +2,7 @@
 
 ## 🌐 Online access to RandomTeamsApp
 
-[RandomTeamsApp v1.0](https://connect.posit.cloud/EasySportsApps/content/0192fc61-e249-141f-ce78-947fd86d0d11)
+[RandomTeamsApp v1.0](https://raul-datexbio.shinyapps.io/RandomTeamsApp/)
 
 ## 📝 About RandomTeamsApp
 
