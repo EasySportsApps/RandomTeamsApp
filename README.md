@@ -14,7 +14,7 @@ RandomTeamsApp is an interactive and free web application developed using R Stud
 - **❌ Delete players**: Remove players from the list who are not attending a specific training session or match.
 - **🎲 Randomize groups**: Generate random training or competition groups with customizable filters by sport, team, age category, and position.
 
-If you have any suggestions for improvement, feel free to share them in the **Discussions** section of our GitHub repository. 💬
+If you have any suggestions for improvement, feel free to share them in the **[Discussions](https://github.com/EasySportsApps/discussions)** section 💬 of our GitHub repository or send us an **email** 📧 at [easysportsappsproject@gmail.com](mailto:easysportsappsproject@gmail.com).  
 
 ## 💡 Future features and ideas for RandomTeamsApp
 
@@ -24,8 +24,6 @@ In future versions of RandomTeamsApp, we are considering adding the following fe
 - **🔢 Sampling tab**: A new tab to create samples or subgroups of players from the existing player pool.
 - **📊 Sociogram tab**: A new tab to visualize which players have trained or competed together most frequently.
 - **🏆 Match outcome recording function**: A new function to record both the winning and losing teams or groups after a real or training match.
-
-If you have any suggestions for improvement, feel free to share them in the **[Discussions](https://github.com/EasySportsApps/discussions)** section 💬 of our GitHub repository or send us an **email** 📧 at [easysportsappsproject@gmail.com](mailto:easysportsappsproject@gmail.com).  
 
 To support the inclusion of these new features, contributions from app users through the **GitHub Sponsors crowdfunding campaign** are crucial. Thank you! 🙏
 
