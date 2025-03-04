@@ -25,7 +25,7 @@ In future versions of RandomTeamsApp, we are considering adding the following fe
 - **📊 Sociogram tab**: A new tab to visualize which players have trained or competed together most frequently.
 - **🏆 Match outcome recording function**: A new function to record both the winning and losing teams or groups after a real or training match.
 
-To support the inclusion of these new features, contributions from app users through the **GitHub Sponsors crowdfunding campaign** are crucial. Thank you! 🙏
+To support the inclusion of these new features, contributions from app users through our **[donation link](https://paypal.me/rhileno?country.x=ES&locale.x=es_ES)** are highly appreciated. Thank you! 🙏
 
 ## 📝 About EasySportsApps project
 
