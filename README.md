@@ -29,7 +29,7 @@ To support the inclusion of these new features, contributions from app users thr
 
 ## 📝 About EasySportsApps project
 
-RandomTeamsApp is part of the [EasySportsApps](https://github.com/EasySportsApps) project, driven and developed by [Raúl Hileno, PhD](https://orcid.org/0000-0003-3447-395X). The project focuses on creating practical and innovative digital solutions that address the dynamic needs of professionals in physical activity and sports.
+RandomTeamsApp is part of the [EasySportsApps](https://github.com/EasySportsApps) project, driven and developed by [Raúl Hileno, PhD](https://raulhilenophd-nextlevelstatsandapps4u.netlify.app/). The project focuses on creating practical and innovative digital solutions that address the dynamic needs of professionals in physical activity and sports.
 
 ## 📜 RandomTeamsApp license
 
