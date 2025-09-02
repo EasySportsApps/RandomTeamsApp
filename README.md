@@ -18,10 +18,10 @@ RandomTeamsApp is an interactive and free web application developed using R Stud
 
 In future versions of RandomTeamsApp, we are considering adding the following features:
 
-- **📑 Predefined groups tab**: A new tab to create non-random or manually assigned training or competition groups.
-- **🔢 Sampling tab**: A new tab to create samples or subgroups of players from the existing player pool.
-- **📊 Sociogram tab**: A new tab to visualize which players have trained or competed together most frequently.
-- **🏆 Match outcome recording function**: A new function to record both the winning and losing teams or groups after a real or training match.
+- <img src="https://img.icons8.com/ios-filled/24/000000/open-book.png"/> **Predefined groups tab**: A new tab to create non-random or manually assigned training or competition groups.
+- <img src="https://img.icons8.com/ios-filled/24/000000/numbers-input-form.png"/> **Sampling tab**: A new tab to create samples or subgroups of players from the existing player pool.
+- <img src="https://img.icons8.com/ios-filled/24/000000/combo-chart.png"/> **Sociogram tab**: A new tab to visualize which players have trained or competed together most frequently.
+- <img src="https://img.icons8.com/ios-filled/24/000000/trophy.png"/> **Match outcome recording function**: A new function to record both the winning and losing teams or groups after a real or training match.
 
 If you have any suggestions for improvement, feel free to share them in the [Discussions](https://github.com/EasySportsApps/RandomTeamsApp/discussions) section of our GitHub repository or send us an [email](mailto:easysportsappsproject@gmail.com).  
 
