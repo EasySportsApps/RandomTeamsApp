@@ -19,7 +19,7 @@ RandomTeamsApp is an interactive and free web application developed using R Stud
 In future versions of RandomTeamsApp, we are considering adding the following features:
 
 - <img src="https://img.icons8.com/ios-filled/24/000000/hand.png"/> **Predefined groups tab**: A new tab to create non-random or manually assigned training or competition groups.
-- <img src="https://img.icons8.com/ios-filled/24/000000/numbers-input-form.png"/> **Sampling tab**: A new tab to create samples or subgroups of players from the existing player pool.
+- <img src="https://img.icons8.com/ios-filled/24/000000/ballot.png"/> **Sampling tab**: A new tab to create samples or subgroups of players from the existing player pool.
 - <img src="https://img.icons8.com/ios-filled/24/000000/combo-chart.png"/> **Sociogram tab**: A new tab to visualize which players have trained or competed together most frequently.
 - <img src="https://img.icons8.com/ios-filled/24/000000/trophy.png"/> **Match outcome recording function**: A new function to record both the winning and losing teams or groups after a real or training match.
 
