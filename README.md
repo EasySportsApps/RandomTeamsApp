@@ -8,11 +8,11 @@
 
 RandomTeamsApp is an interactive and free web application developed using R Studio and Shiny. It assists sports teams' coaching staff in creating random training or competition groups. This app is suitable for any team sport (basketball, soccer, volleyball, etc.) and offers the following features:
 
-- **📥 Load players**: Load player data from pre-created XLSX, XLS, or CSV files.
-- **<img src="https://img.icons8.com/ios-filled/24/000000/add-user-male.png"/> Add players**: Add new players with complete information, including ID number, first and last name, sport, team, age category, and position.
-- **✏️ Modify players**: Modify recorded information to keep player lists up-to-date and accurate.
-- **❌ Delete players**: Remove players from the list who are not attending a specific training session or match.
-- **🎲 Randomize groups**: Generate random training or competition groups with customizable filters by sport, team, age category, and position.
+- <img src="https://img.icons8.com/ios-filled/24/000000/upload.png"/> **Load players**: Load player data from pre-created XLSX, XLS, or CSV files.
+- <img src="https://img.icons8.com/ios-filled/24/000000/add-user-male.png"/> **Add players**: Add new players with complete information, including ID number, first and last name, sport, team, age category, and position.
+- <img src="https://img.icons8.com/ios-filled/24/000000/edit.png"/> **Modify players**: Modify recorded information to keep player lists up-to-date and accurate.
+- <img src="https://img.icons8.com/ios-filled/24/000000/delete-sign.png"/> **Delete players**: Remove players from the list who are not attending a specific training session or match.
+- <img src="https://img.icons8.com/ios-filled/24/000000/dice.png"/> **Randomize groups**: Generate random training or competition groups with customizable filters by sport, team, age category, and position.
 
 ## <img src="https://img.icons8.com/ios-filled/24/000000/idea.png"/> Future features and ideas for RandomTeamsApp
 
