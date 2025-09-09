@@ -6,7 +6,7 @@
 
 ## <img src="https://img.icons8.com/ios-filled/24/000000/document.png"/> About RandomTeamsApp
 
-RandomTeamsApp is a free and interactive web application developed with R Studio and Shiny. It helps the coaching staff of any sports team create random groups for training or competition. The app is suitable for all team sports (e.g., basketball, soccer, volleyball, etc.) and offers the following features:
+RandomTeamsApp is a free and interactive Shiny web app, created and developed by [Raúl Hileno, PhD](https://raulhilenophd-nextlevelstatsandapps4u.netlify.app/), as part of the [EasySportsApps](https://github.com/EasySportsApps) GitHub project. It helps the coaching staff of any sports team create random groups for training or competition. The app is suitable for all team sports (e.g., basketball, soccer, volleyball, etc.) and offers the following features:
 
 - <img src="https://img.icons8.com/ios-filled/24/000000/upload.png"/> **Load players**: Load player data from pre-created XLSX, XLS, or CSV files.
 - <img src="https://img.icons8.com/ios-filled/24/000000/add-user-male.png"/> **Add players**: Add new players with complete information, including ID number, first and last name, sport, team, age category, and position.
@@ -26,10 +26,6 @@ In future versions of RandomTeamsApp, we are considering adding the following fe
 If you have any suggestions for improvement, feel free to share them in the [Discussions](https://github.com/EasySportsApps/RandomTeamsApp/discussions) section of our GitHub repository or send us an [email](mailto:easysportsappsproject@gmail.com).  
 
 To support the inclusion of these new features, contributions from app users through our [donation link](https://www.paypal.com/donate/?hosted_button_id=BA84P5Y2MC7MN) are highly appreciated. Thank you!
-
-## <img src="https://img.icons8.com/ios-filled/24/000000/document.png"/> About EasySportsApps project
-
-RandomTeamsApp is part of the [EasySportsApps](https://github.com/EasySportsApps) project, driven and developed by [Raúl Hileno, PhD](https://raulhilenophd-nextlevelstatsandapps4u.netlify.app/). The project focuses on creating practical and innovative digital solutions that address the dynamic needs of professionals in health, physical activity and sports health.
 
 ## <img src="https://img.icons8.com/ios-filled/24/000000/copyright.png"/> RandomTeamsApp license
 
