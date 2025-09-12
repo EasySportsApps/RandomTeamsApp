@@ -4,6 +4,10 @@
 
 [RandomTeamsApp v1.0](https://easysportsapps.shinyapps.io/randomteamsapp/)
 
+## <img src="https://img.icons8.com/ios-filled/24/000000/youtube--v1.png"/> How to use RandomTeamsApp in 1 minute
+
+[![How to use RandomTeamsApp in 1 minute | EasySportsApps](https://img.youtube.com/vi/sY2_WEJQPoU/hqdefault.jpg)](https://www.youtube.com/watch?v=sY2_WEJQPoU](https://www.youtube.com/watch?v=KfJwgPBbjX0)
+
 ## <img src="https://img.icons8.com/ios-filled/24/000000/document.png"/> About RandomTeamsApp
 
 RandomTeamsApp is a free and interactive Shiny web app, created and developed by [Raúl Hileno, PhD](https://raulhilenophd-nextlevelstatsandapps4u.netlify.app/), as part of the [EasySportsApps](https://github.com/EasySportsApps) GitHub project. It helps the coaching staff of any sports team create random groups for training or competition. The app is suitable for all team sports (e.g., basketball, soccer, volleyball, etc.) and offers the following features:
